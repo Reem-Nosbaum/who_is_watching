@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./Exercise4.css";
-import Netflix from "../assets/Netflix-avatar.png";
+import Netflix from "./assets/Netflix-avatar.png";
 
 const usersDB = [
   {
